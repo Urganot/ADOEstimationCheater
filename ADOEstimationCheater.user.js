@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ADO Estimation Cheater
-// @version      2025-06-02.2
+// @version      2025-06-02.3
 // @description  StoryPoint estimation as it should be!
 // @author       Simon Balling
 // @updateURL    https://raw.githubusercontent.com/Urganot/ADOEstimationCheater/refs/heads/main/ADOEstimationCheater.js
